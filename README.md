@@ -20,6 +20,6 @@ I'm passionate about web development, especially for the front end! Constantly m
 
 #### &#x1F4CA; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyosukyuu&layout=compact)](https://github.com/kyosukyuu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyosukyuu&layout=compact)](https://github.com/kyosukyuu/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kyosukyuu&repo=betterYoutubePlaylist)](https://github.com/Kyosukyuu/betterYoutubePlaylist) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kyosukyuu&repo=weatherApp)](https://github.com/Kyosukyuu/weatherApp)
