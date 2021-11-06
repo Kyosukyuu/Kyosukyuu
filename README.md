@@ -1,10 +1,10 @@
-### &#x1F44B; Hey there, I'm Kyosukyuu &#x1F44B;
+## &#x1F44B; Hey there, I'm Kyosukyuu &#x1F44B;
 
 I'm passionate about web development, especially for the front end! Constantly making and improving on things.
 
 ---
 
-#### &#x1F527; Technologies, Tools & More
+### &#x1F527; Technologies, Tools & More
 
 ![Front End - HTML5](https://img.shields.io/badge/Front_End-HTML5-blue?logo=html5) ![Front End - CSS3](https://img.shields.io/badge/Front_End-CSS3-blue?logo=css3) ![Front End - SASS](https://img.shields.io/badge/Front_End-SASS-blue?logo=sass) ![Front End - Javascript](https://img.shields.io/badge/Front_End-Javascript-blue?logo=javascript) ![Front End - Typescript](https://img.shields.io/badge/Front_End-Typescript-blue?logo=typescript&logoColor=white) ![Front End - React](https://img.shields.io/badge/Front_End-React-blue?logo=react) ![Front End - Next.js](https://img.shields.io/badge/Front_End-Next.js-blue?logo=next.js)
 
@@ -18,7 +18,7 @@ I'm passionate about web development, especially for the front end! Constantly m
 
 ---
 
-#### &#x1F4CA; GitHub Stats
+### &#x1F4CA; GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyosukyuu&layout=compact)](https://github.com/kyosukyuu/)
 
