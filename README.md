@@ -6,7 +6,7 @@ I'm passionate about web development, especially for the front end! Constantly m
 
 ### &#x1F527; Technologies, Tools & More
 
-![Front End - HTML5](https://img.shields.io/badge/Front_End-HTML5-blue?logo=html5) ![Front End - CSS3](https://img.shields.io/badge/Front_End-CSS3-blue?logo=css3) ![Front End - SASS](https://img.shields.io/badge/Front_End-SASS-blue?logo=sass) ![Front End - Javascript](https://img.shields.io/badge/Front_End-Javascript-blue?logo=javascript) ![Front End - Typescript](https://img.shields.io/badge/Front_End-Typescript-blue?logo=typescript&logoColor=white) ![Front End - React](https://img.shields.io/badge/Front_End-React-blue?logo=react) ![Front End - Next.js](https://img.shields.io/badge/Front_End-Next.js-blue?logo=next.js)
+![Front End - HTML5](https://img.shields.io/badge/Front_End-HTML5-blue?logo=html5) ![Front End - CSS3](https://img.shields.io/badge/Front_End-CSS3-blue?logo=css3) ![Front End - SASS](https://img.shields.io/badge/Front_End-SASS-blue?logo=sass) ![Front End - JavaScript](https://img.shields.io/badge/Front_End-JavaScript-blue?logo=javascript) ![Front End - TypeScript](https://img.shields.io/badge/Front_End-TypeScript-blue?logo=typescript&logoColor=white) ![Front End - React](https://img.shields.io/badge/Front_End-React-blue?logo=react) ![Front End - Next.js](https://img.shields.io/badge/Front_End-Next.js-blue?logo=next.js)
 
 ![Back End - Node.js](https://img.shields.io/badge/Back_End-Node.js-blueviolet?logo=node.js) ![Back End - Express](https://img.shields.io/badge/Back_End-Express-blueviolet?logo=express)
 
