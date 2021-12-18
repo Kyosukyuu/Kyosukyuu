@@ -14,7 +14,9 @@ I'm passionate about web development, especially for the front end! Constantly m
 
 ![Testing - Jest](https://img.shields.io/badge/Testing-Jest-brightgreen?logo=Jest) ![Testing - Enzyme](https://img.shields.io/badge/Testing-Enzyme-brightgreen)
 
-![OS - Windows](https://img.shields.io/badge/OS-Windows-red?logo=Windows) ![OS - Linux](https://img.shields.io/badge/OS-Linux-red?logo=Linux)
+![Scripting - Python 3](https://img.shields.io/badge/Scripting-Python_3-yellowgreen?logo=python)
+
+![OS - Windows](https://img.shields.io/badge/OS-Windows-red?logo=Windows) ![OS - Linux](https://img.shields.io/badge/OS-Linux-red?logo=Linux) ![OS - Kali Linux](https://img.shields.io/badge/OS-Kali_Linux-red?logo=kali-linux&logoColor=white) ![OS - Ubuntu](https://img.shields.io/badge/OS-Ubuntu-red?logo=ubuntu)
 
 ---
 
