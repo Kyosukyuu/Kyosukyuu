@@ -1,22 +1,40 @@
 ## &#x1F44B; Hey there, I'm Kyosukyuu &#x1F44B;
 
-I'm passionate about web development, especially for the front end! Constantly making and improving on things.
+I'm very passionate about web development, especially for the front end! I like to keep up to date with web dev to learn about exicting new features. I also like to see all the inspiring projects people make. My favorite thing to do is automate boring tasks with code. I'm always making and improving on things.
+
+##### About Me:
+
+- &#x1F331; I'm currently learning [Rust](https://www.rust-lang.org/)
+- &#x1F52D; I'm constantly on the lookout for cool stuff in the JavaScript ecosystem
+- &#x2728; I'm a staunch believer in FOSS
 
 ---
 
-### &#x1F527; Technologies, Tools & More
+### &#x1F527; Technologies, Tools, & More
 
-![HTML5 - Front End](https://img.shields.io/badge/HTML5-Front_End-blue?logo=html5) ![CSS3 - Front End](https://img.shields.io/badge/CSS3-Front_End-blue?logo=css3) ![SASS - Front End](https://img.shields.io/badge/SASS-Front_End-blue?logo=sass) ![JavaScript - Front End](https://img.shields.io/badge/JavaScript-Front_End-blue?logo=javascript) ![TypeScript - Front End](https://img.shields.io/badge/TypeScript-Front_End-blue?logo=typescript&logoColor=white) ![React - Front End](https://img.shields.io/badge/React-Front_End-blue?logo=react) ![Next.js - Front End](https://img.shields.io/badge/Next.js-Front_End-blue?logo=next.js)
+#### Front End
 
-![Node.js - Back End](https://img.shields.io/badge/Node.js-Back_End-blueviolet?logo=node.js) ![Express - Back End](https://img.shields.io/badge/Express-Back_End-blueviolet?logo=express)
+![HTML5](https://img.shields.io/badge/HTML5-blue?logo=html5&color=E34F26&logoColor=white&style=flat-square) ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=CSS3&color=1572B6&logoColor=white&style=flat-square) ![Sass](https://img.shields.io/badge/Sass-blue?logo=Sass&color=CC6699&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-blue?logo=JavaScript&color=f0da50&logoColor=323230&style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=TypeScript&color=3178C6&logoColor=white&style=flat-square) ![React](https://img.shields.io/badge/React-blue?logo=React&color=222222&logoColor=3178C6&style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-blue?logo=Next.js&color=white&logoColor=000000&style=flat-square)
 
-![MongoDB - Database](https://img.shields.io/badge/MongoDB-Database-orange?logo=MongoDB) ![PostgreSQL - Database](https://img.shields.io/badge/PostgreSQL-Database-orange?logo=PostgreSQL&logoColor=white) ![Firebase - Database](https://img.shields.io/badge/Firebase-Database-orange?logo=Firebase)
+#### Back End
 
-![Jest - Testing](https://img.shields.io/badge/Jest-Testing-brightgreen?logo=Jest) ![Enzyme - Testing](https://img.shields.io/badge/Enzyme-Testing-brightgreen)
+![Next.js](https://img.shields.io/badge/Node.js-blue?logo=Node.js&color=333333&logoColor=339933&style=flat-square) ![Express](https://img.shields.io/badge/Express-blue?logo=Express&color=white&logoColor=000000&style=flat-square)
 
-![Python 3 - Scripting](https://img.shields.io/badge/Python_3-Scripting-yellowgreen?logo=python)
+#### Database
 
-![Windows - OS](https://img.shields.io/badge/Windows-OS-red?logo=Windows) ![Linux - OS](https://img.shields.io/badge/Linux-OS-red?logo=Linux) ![Kali Linux - OS](https://img.shields.io/badge/Kali_Linux-OS-red?logo=kali-linux&logoColor=white) ![Ubuntu - OS](https://img.shields.io/badge/Ubuntu-OS-red?logo=ubuntu)
+![MongoDB](https://img.shields.io/badge/MongoDB-blue?logo=MongoDB&color=001e2b&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=PostgreSQL&color=4169E1&style=flat-square&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-blue?logo=Firebase&color=4c4c4c&style=flat-square)
+
+#### Scripting
+
+![Python](https://img.shields.io/badge/Python-blue?logo=Python&color=3776AB&logoColor=ffd444&style=flat-square) ![GNU Bash](https://img.shields.io/badge/GNU_Bash-blue?logo=GNU-Bash&color=293036&style=flat-square&logoColor=white)
+
+#### Tools
+
+![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-blue?logo=Visual-Studio-Code&color=252526&style=flat-square&logoColor=007ACC) ![Git](https://img.shields.io/badge/Git-blue?logo=Git&color=F05032&style=flat-square&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-blue?logo=GitHub&color=181717&style=flat-square&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=Docker&color=2496ED&logoColor=white)
+
+#### Other
+
+![Windows](https://img.shields.io/badge/Windows-blue?style=flat-square&logo=Windows&logoColor=0078D6&color=black) ![Linux](https://img.shields.io/badge/Linux-blue?style=flat-square&logo=Linux&color=black) ![WordPress](https://img.shields.io/badge/WordPress-blue?style=flat-square&logo=WordPress&color=21759B&)
 
 ---
 
