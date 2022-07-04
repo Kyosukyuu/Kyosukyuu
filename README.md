@@ -1,6 +1,8 @@
 ## &#x1F44B; Hey there, I'm Kyosukyuu &#x1F44B;
 
-I'm very passionate about web development, especially for the front end! I like to keep up to date with web dev to learn about exicting new features. I also like to see all the inspiring projects people make. My favorite thing to do is automate boring tasks with code. I'm always making and improving on things.
+I'm very passionate about web development, especially for the front end! I tend to keep up to date with web dev to learn about exicting new features. I love being inspired by all the cool projects people make.
+
+My favorite part about coding is using what I know to improve my productivity.
 
 ##### About Me:
 
