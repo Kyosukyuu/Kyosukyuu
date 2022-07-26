@@ -16,7 +16,7 @@ My favorite part about coding is using what I know to improve my productivity.
 
 #### Front End
 
-![HTML5](https://img.shields.io/badge/HTML5-blue?logo=html5&color=E34F26&logoColor=white&style=flat-square) ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=CSS3&color=1572B6&logoColor=white&style=flat-square) ![Sass](https://img.shields.io/badge/Sass-blue?logo=Sass&color=CC6699&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-blue?logo=JavaScript&color=f0da50&logoColor=323230&style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=TypeScript&color=3178C6&logoColor=white&style=flat-square) ![React](https://img.shields.io/badge/React-blue?logo=React&color=222222&logoColor=3178C6&style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-blue?logo=Next.js&color=white&logoColor=000000&style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-blue?logo=html5&color=E34F26&logoColor=white&style=flat-square) ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=CSS3&color=1572B6&logoColor=white&style=flat-square) ![Sass](https://img.shields.io/badge/Sass-blue?logo=Sass&color=CC6699&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-blue?logo=JavaScript&color=f0da50&logoColor=323230&style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=TypeScript&color=3178C6&logoColor=white&style=flat-square) ![React](https://img.shields.io/badge/React-blue?logo=React&color=222222&logoColor=3178C6&style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-blue?logo=Next.js&color=white&logoColor=000000&style=flat-square) ![WordPress](https://img.shields.io/badge/WordPress-blue?style=flat-square&logo=WordPress&color=21759B&)
 
 #### Back End
 
@@ -32,13 +32,15 @@ My favorite part about coding is using what I know to improve my productivity.
 
 #### Tools
 
-![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-blue?logo=Visual-Studio-Code&color=252526&style=flat-square&logoColor=007ACC) ![Git](https://img.shields.io/badge/Git-blue?logo=Git&color=F05032&style=flat-square&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-blue?logo=GitHub&color=181717&style=flat-square&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=Docker&color=2496ED&logoColor=white)
+![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-blue?logo=Visual-Studio-Code&color=252526&style=flat-square&logoColor=007ACC) ![Git](https://img.shields.io/badge/Git-blue?logo=Git&color=F05032&style=flat-square&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-blue?logo=GitHub&color=181717&style=flat-square&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=Docker&color=2496ED&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-blue?style=flat-square&logo=FFmpeg&color=black&logoColor=007808) ![Vite](https://img.shields.io/badge/Vite-blue?style=flat-square&logo=Vite&color=black&logoColor=646CFF)
+
+#### Deployment Services
+
+![GitHub_Pages](https://img.shields.io/badge/GitHub_Pages-blue?style=flat-square&logo=GitHubPages&logoColor=222222&color=white) ![Vercel](https://img.shields.io/badge/Vercel-blue?style=flat-square&logo=Vercel&logoColor=white&color=black) ![Heroku](https://img.shields.io/badge/Heroku-blue?style=flat-square&logo=Heroku&logoColor=white&color=430098) ![Netlify](https://img.shields.io/badge/Netlify-blue?style=flat-square&logo=Netlify&logoColor=00C7B7&color=black)
 
 #### Other
 
-![Windows](https://img.shields.io/badge/Windows-blue?style=flat-square&logo=Windows&logoColor=0078D6&color=black) ![Linux](https://img.shields.io/badge/Linux-blue?style=flat-square&logo=Linux&color=black) ![WordPress](https://img.shields.io/badge/WordPress-blue?style=flat-square&logo=WordPress&color=21759B&)
-
----
+![Windows](https://img.shields.io/badge/Windows-blue?style=flat-square&logo=Windows&logoColor=0078D6&color=black) ![GNU/Linux](https://img.shields.io/badge/GNU_/_Linux-blue?style=flat-square&logo=Linux&color=black)
 
 ### &#x1F4CA; GitHub Stats
 
